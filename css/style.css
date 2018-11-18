@@ -1,0 +1,12 @@
+.nav-link{
+	color:#454545 !important;
+	font-size:14px;
+}
+
+@media all and (min-width: 700px) {
+	.profile-items{
+margin: 40px 0 0 750px;
+}
+}
+
+
